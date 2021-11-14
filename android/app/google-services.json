@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "704386698109",
+    "project_id": "otp-auth-4836e",
+    "storage_bucket": "otp-auth-4836e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704386698109:android:3323343d47c1e43cf71a14",
+        "android_client_info": {
+          "package_name": "com.sinhaakash.otp_auth_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704386698109-t0efbpphhdh47c41mujs56ugph767u4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinhaakash.otp_auth_flutter",
+            "certificate_hash": "c2993a7ba99bffeb3d5cc597b7ba83f65830d35b"
+          }
+        },
+        {
+          "client_id": "704386698109-lltb72tm8haa6v0p8q1886mc9n9uua9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCry1b9nZWCLk055U-j9lIQ21eLf6t1RPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704386698109-lltb72tm8haa6v0p8q1886mc9n9uua9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704386698109-8hf2qgbn90jfq49ktebhle5o1om7irsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sinhaakash.otpAuthFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
